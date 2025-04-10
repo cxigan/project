@@ -1,2 +1,2 @@
 # portfolio
-Апанасова Ксения <br> https://cxigan.github.io/project/
+Апанасова Ксения <br> https://cxigan.github.io/portfolio/
